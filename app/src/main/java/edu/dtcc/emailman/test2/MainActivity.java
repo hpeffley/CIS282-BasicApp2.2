@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
-    // this is a pointless comment for push test
+    // this is a pointless comment for push test test
 
 
     public void btnGetTimeClicked(View view) {
