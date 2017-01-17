@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+    // this is a pointless comment for push test
+
 
     public void btnGetTimeClicked(View view) {
         // Toast.makeText(getApplicationContext(), "Time to get started", Toast.LENGTH_SHORT).show();
